@@ -1,0 +1,7 @@
+D:\GABO\SERVICES\WS_Usuarios\WS_Usuarios\bin\WS_Usuarios.dll.config
+D:\GABO\SERVICES\WS_Usuarios\WS_Usuarios\bin\WS_Usuarios.dll
+D:\GABO\SERVICES\WS_Usuarios\WS_Usuarios\bin\WS_Usuarios.pdb
+D:\GABO\SERVICES\WS_Usuarios\WS_Usuarios\obj\Debug\WS_Usuarios.csproj.AssemblyReference.cache
+D:\GABO\SERVICES\WS_Usuarios\WS_Usuarios\obj\Debug\WS_Usuarios.csproj.CoreCompileInputs.cache
+D:\GABO\SERVICES\WS_Usuarios\WS_Usuarios\obj\Debug\WS_Usuarios.dll
+D:\GABO\SERVICES\WS_Usuarios\WS_Usuarios\obj\Debug\WS_Usuarios.pdb

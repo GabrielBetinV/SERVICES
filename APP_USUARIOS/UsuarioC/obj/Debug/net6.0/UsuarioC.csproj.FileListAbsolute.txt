@@ -1,0 +1,12 @@
+D:\GABO\SERVICES\APP_USUARIOS\UsuarioC\bin\Debug\net6.0\UsuarioC.deps.json
+D:\GABO\SERVICES\APP_USUARIOS\UsuarioC\bin\Debug\net6.0\UsuarioC.dll
+D:\GABO\SERVICES\APP_USUARIOS\UsuarioC\bin\Debug\net6.0\UsuarioC.pdb
+D:\GABO\SERVICES\APP_USUARIOS\UsuarioC\obj\Debug\net6.0\UsuarioC.csproj.AssemblyReference.cache
+D:\GABO\SERVICES\APP_USUARIOS\UsuarioC\obj\Debug\net6.0\UsuarioC.GeneratedMSBuildEditorConfig.editorconfig
+D:\GABO\SERVICES\APP_USUARIOS\UsuarioC\obj\Debug\net6.0\UsuarioC.AssemblyInfoInputs.cache
+D:\GABO\SERVICES\APP_USUARIOS\UsuarioC\obj\Debug\net6.0\UsuarioC.AssemblyInfo.cs
+D:\GABO\SERVICES\APP_USUARIOS\UsuarioC\obj\Debug\net6.0\UsuarioC.csproj.CoreCompileInputs.cache
+D:\GABO\SERVICES\APP_USUARIOS\UsuarioC\obj\Debug\net6.0\UsuarioC.dll
+D:\GABO\SERVICES\APP_USUARIOS\UsuarioC\obj\Debug\net6.0\refint\UsuarioC.dll
+D:\GABO\SERVICES\APP_USUARIOS\UsuarioC\obj\Debug\net6.0\UsuarioC.pdb
+D:\GABO\SERVICES\APP_USUARIOS\UsuarioC\obj\Debug\net6.0\ref\UsuarioC.dll
